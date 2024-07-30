@@ -1905,3 +1905,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.30-13.40.31:701][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.07.30-13.40.35:272][835]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2024.07.30-13.40.35:272][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.30-13.44.27:271][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.07.30-13.44.27:273][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.029
+[2024.07.30-13.44.27:274][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Player/BP_Player] ([2] browsable assets)...
+[2024.07.30-13.44.27:274][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Player/BP_Player]
+[2024.07.30-13.44.27:283][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Player/BP_Player_Auto3
+[2024.07.30-13.44.27:283][345]LogSavePackage: Moving '../../../../Unreal Projects/TheRat/TheRat/Saved/BP_Player_Auto35FDD2AF743AF1EE063D1B6AB24163003.tmp' to '../../../../Unreal Projects/TheRat/TheRat/Saved/Autosaves/Game/Blueprints/Characters/Player/BP_Player_Auto3.uasset'
+[2024.07.30-13.44.27:283][345]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.07.30-13.44.45:692][698]BlueprintLog: New page: Compile BP_Player
+[2024.07.30-13.44.45:789][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.07.30-13.45.11:213][118]BlueprintLog: New page: Compile BP_Player
+[2024.07.30-13.45.11:301][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.30-13.45.50:491][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.30-13.45.50:602][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Player/BP_Player" FILE="../../../../Unreal Projects/TheRat/TheRat/Content/Blueprints/Characters/Player/BP_Player.uasset" SILENT=true
+[2024.07.30-13.45.50:611][605]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Player/BP_Player
+[2024.07.30-13.45.50:611][605]LogSavePackage: Moving '../../../../Unreal Projects/TheRat/TheRat/Saved/BP_Player7D6162A14B4BACBF4975C4B8D99F28DF.tmp' to '../../../../Unreal Projects/TheRat/TheRat/Content/Blueprints/Characters/Player/BP_Player.uasset'
+[2024.07.30-13.45.50:619][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 3.56 sec)
+[2024.07.30-13.45.50:627][605]AssetCheck: New page: Asset Save: BP_Player
+[2024.07.30-13.45.50:627][605]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/Player/BP_Player.BP_Player
+[2024.07.30-13.45.51:431][652]BlueprintLog: New page: Compile BP_Player
+[2024.07.30-13.45.51:513][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
