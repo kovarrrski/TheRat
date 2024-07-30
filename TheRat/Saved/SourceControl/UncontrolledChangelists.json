@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/Maps/MAP_Debug.umap"
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/Maps/MAP_Debug.umap",
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/Blueprints/Characters/BP_ActionChar_BASE.uasset",
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/PaperAssets/image-1_png.uasset",
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/PaperAssets/image-1_png_Sprite.uasset",
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/Blueprints/Characters/BP_Player.uasset",
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/Blueprints/Characters/Player/BP_Player.uasset",
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/Blueprints/GM_Rat.uasset",
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/Input/Actions/IA_Jump.uasset",
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/Input/Actions/IA_Move.uasset",
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/Input/IMC_Rat.uasset",
+				"D:/Soft/Unreal Projects/TheRat/TheRat/Content/PaperAssets/Rat.uasset"
 			]
 		}
 	]
